@@ -2,3 +2,4 @@
 
 Working with the 'git' *version control software*; see https://git-scm.com/.
 
+Committing changes is great
